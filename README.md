@@ -3,6 +3,7 @@
 
 The Titanic Survival Prediction project builds a machine learning model that predicts survival chances based on passenger information. Using multiple classification algorithms, including Random Forest, Logistic Regression, KNN, and SVM, we analyze key factors that influenced survival rates.
 
+[Model App Link.](https://titanic-ml-app-sy98kkydvazjkqkwzqcmyg.streamlit.app/)
 ## Dataset Overview
 
 The dataset contains information on Titanic passengers, with features such as:
